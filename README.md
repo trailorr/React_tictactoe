@@ -1,2 +1,3 @@
-# React_tictactoe
+# React_TicTacToe
+
 Created with CodeSandbox
